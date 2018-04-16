@@ -1,0 +1,3 @@
+/home/sworddestiny/windows-dev/code_craft_2018/sdk-gcc/build/CMakeFiles/edit_cache.dir
+/home/sworddestiny/windows-dev/code_craft_2018/sdk-gcc/build/CMakeFiles/ecs.dir
+/home/sworddestiny/windows-dev/code_craft_2018/sdk-gcc/build/CMakeFiles/rebuild_cache.dir

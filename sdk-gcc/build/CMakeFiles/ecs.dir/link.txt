@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11   CMakeFiles/ecs.dir/ecs.cpp.o CMakeFiles/ecs.dir/io.cpp.o CMakeFiles/ecs.dir/predict.cpp.o  -o /home/sworddestiny/windows-dev/code_craft_2018/sdk-gcc/bin/ecs -rdynamic 
